@@ -1,1 +1,1 @@
-This is a website for a resturant. A database is created with PHPmyAdmin and Object Oriented php was used to get data from users and store it in the database. This project is focused on backend, so front end and UI/UX design wasnt a priority.
+ 
